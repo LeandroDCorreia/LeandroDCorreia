@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LeandroDCorreia
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML / CSS/ JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Please e-mail me at br.leandrocorreia@gmail.com
 
 <!---
