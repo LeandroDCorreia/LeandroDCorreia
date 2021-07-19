@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LeandroDCorreia
-- 🌱 I’m currently learning HTML / CSS/ JS
-- 📫 How to reach me: Please e-mail me at br.leandrocorreia@gmail.com
+- 👋 Olá, bom te ver por aqui! Eu sou Leandro Correia
+- 🌱 Eu estou atualmente bastante empenhado em aprender as seguintes linguagens: HTML / CSS/ JS
+- 📫 Meu contato: br.leandrocorreia@gmail.com
 
 <!---
 LeandroDCorreia/LeandroDCorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
