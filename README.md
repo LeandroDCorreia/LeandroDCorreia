@@ -1,5 +1,5 @@
 - 👋 Olá, bom te ver por aqui! Eu sou Leandro Correia
-- 🌱 Eu estou atualmente bastante empenhado em aprender as seguintes linguagens: HTML / CSS/ JS
+- 🌱 Eu estou bastante empenhado em aprender HTML / CSS/ JS no momento.
 - 📫 Meu contato: br.leandrocorreia@gmail.com
 
 <!---
